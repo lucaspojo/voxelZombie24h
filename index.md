@@ -7,10 +7,15 @@ VoxelZombie est un projet perso, un défi, créer un jeu sous Unreal Engine 4 en
 ### TOUCHES
 
 Z Q S D : Move
+
 Left shift : Sprint
+
 Left click : Shoot
+
 R : Reload
+
 ALT + F4 : Exit game
+
 
 ### Téléchargement
 
